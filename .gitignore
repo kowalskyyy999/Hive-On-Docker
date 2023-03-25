@@ -1,2 +1,3 @@
 /images/base/hive-conf/*.bak
 /images/base/hive-conf/*.bak.*
+.env
